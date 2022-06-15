@@ -85,7 +85,7 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
+- [𝙎𝙏𝘿 𝘽𝙊𝙔𝙎](https://github.com/STDBOYS): Developer
 - [STD Music Bot](https://telegram.me/STD_BOYS_ROBOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
